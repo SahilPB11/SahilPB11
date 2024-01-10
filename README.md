@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" height="300px" width="400px" src="ezgif-4-456c79582d.gif">
+<img align="center"  src="ezgif-4-456c79582d.gif">
 </div>
 
 <h1 align="center">
