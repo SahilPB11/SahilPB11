@@ -1,7 +1,5 @@
 <div align="center">
-<video align="center" width="500" height="300" loop autoplay muted style="margin: auto;">
-  <source src="https://youtu.be/U8P52_Y2EfM?si=THg_Ol9UET64JdAO" type="video/mp4">
-</video>
+<img align="center" height="200px" width="400px" src="ezgif-4-456c79582d.gif">
 </div>
 
 <h1 align="center">
