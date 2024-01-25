@@ -1,5 +1,6 @@
 <div align="center">
-<img align="center"  src="ezgif-4-456c79582d.gif">
+<!-- <img align="center"  src="ezgif-4-456c79582d.gif"> -->
+    <p><img   src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 </div>
 
 <h1 align="center">
@@ -17,6 +18,7 @@
  🌱 I’m currently learning **Redux, NextJs**
 
 💬 Ask me about **Javascript, Java, Node.js, React, MongoDb... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
